@@ -136,6 +136,11 @@ body {
   outline: none;
   border-radius: 2px;
   cursor: pointer;
+  margin-left: 80%;
+  padding-left: 0.5rem ;
+  
+  
+  
 }
 
 .task.done .check-button {
@@ -144,7 +149,6 @@ body {
 }
 
 .check-icon {
-  display: block;
   padding: 1px;
   width: 10px;
   height: 10px;
